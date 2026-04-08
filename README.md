@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yogesh Kumar, a Computer Science Engineering student passionate about building impactful tech solutions.<br>💻 I’m currently working on a Full Stack Development project.<br>🔍 I’m looking for a mentor to guide me in exploring new technologies that can boost my career growth.<br>📚 I’m currently learning React and sharpening my skills in Data Structures & Algorithms.<br>💬 Ask me about startup ideas and anything related to tech innovation—I love brainstorming and discussing new concepts!<br>📖 Fun fact: I enjoy reading and writing poetry in my free time.
+👋 Hi, I’m Yogesh Kumar, a Computer Science Engineering student passionate about building impactful tech solutions.<br>💻 I’m currently working on a complete end to end AI/ML project pipeline.<br>🔍 I’m looking for an opportunity in AI ML.<br>📚 I’m currently learning Agentic AI, and sharpening my skills in Data Structures & Algorithms.<br>💬 Ask me about startup ideas and anything related to tech innovation—I love brainstorming and discussing new concepts!<br>📖 Fun fact: I enjoy reading and writing poetry in my free time.
 
 
 ## 🌐 Socials:
